@@ -1,0 +1,57 @@
+{
+  "name": "dashboardmembre",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fullcalendar/daygrid": "^5.11.0",
+    "@fullcalendar/react": "^5.11.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.1.1",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.27.2",
+    "date-fns": "^2.28.0",
+    "date-time": "^4.0.0",
+    "font-awesome-icons": "^1.6.0",
+    "i": "^0.3.7",
+    "material-ui": "^0.20.2",
+    "moment": "^2.29.3",
+    "npm": "^8.11.0",
+    "react": "^18.0.0",
+    "react-big-calendar": "^0.40.1",
+    "react-datepicker": "^4.8.0",
+    "react-datetime": "^3.1.1",
+    "react-dom": "^18.0.0",
+    "react-modal": "^3.15.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.5.1",
+    "sweetalert2": "^11.4.9",
+    "timeago": "^1.6.7",
+    "timeago.js": "^4.0.2",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
